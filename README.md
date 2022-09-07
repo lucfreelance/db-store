@@ -16,7 +16,7 @@ https://trello.com/b/B4kNis0h/mini-e-commerce
 Base de datos: Utilizamos ClearDB para realizar un almacenamiento y centralización de la base de datos.
 https://www.cleardb.com/
 
-Alojamiento Base de Datos: Administración y gestión de datos del proyecto en Heroku.
+Alojamiento Base de Datos: Administración y gestión de la base de datos general del proyecto en Heroku.
 https://www.heroku.com/
 
 
