@@ -21,7 +21,7 @@ https://www.heroku.com/
 
 
 
-Creado por Estudiantes de Platzi con ❤️
+Creado por los siguientes estudiantes de Platzi con ❤️
 
 *Larry M.
 
