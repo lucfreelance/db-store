@@ -10,7 +10,7 @@ Los enlaces de trabajo del proyecto son:
 Diseño: Prototipado colaborativo para desarrollar las vistas Desktop, Mobile y Tablet.
 https://www.figma.com/file/dSEZkuCTJmkYYXftKv3y2N/Mini-E-Commerce?node-id=35%3A204
 
-Organización: Lineamientos del proyecto y métodos de trabajo, además de área de nota y retroalimentación interna. (Sólo Colaboradores).
+Organización: Lineamientos del proyecto y métodos de trabajo, además de área de nota y retroalimentación interna.
 https://trello.com/b/B4kNis0h/mini-e-commerce
 
 Base de datos: Utilizamos ClearDB para realizar un almacenamiento y centralización de la base de datos.
