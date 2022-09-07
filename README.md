@@ -23,8 +23,8 @@ Creado por: Estudiantes de Platzi con ❤️
 
 *Larry M.
 
-*Sergio A.
+*Sergio Atanasio
 
 *Jovanny
 
-*Lucas
+*S. Lucas
