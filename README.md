@@ -24,7 +24,7 @@ Creado por: Estudiantes de Platzi con ❤️
 
 *Larry M.
 
-*Sergio Atanasio
+*Sergio Atanacio
 
 *Jovanny
 
