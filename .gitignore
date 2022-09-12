@@ -50,6 +50,9 @@ typings/
 # Optional npm cache directory
 .npm
 
+# WorkSpace
+...minieco.code-workspace
+
 # Optional eslint cache
 .eslintcache
 
@@ -103,8 +106,8 @@ dist
 # TernJS port file
 .tern-port
 
-# VSCODE
+# VSCode
 .vscode
 
-# WORKSPACE
+# WorkSpace
 .code-workspace
